@@ -1,3 +1,7 @@
+#Team Member:
+- Kush Mangukiya (24M0769)
+- Kaustubh (24M2109)
+
 # Learning Human Expertise in RLHF using Extended-BTL Model
 
 This is the Readme file of the project done by Mr. Kaustubh and Mr. Kush
